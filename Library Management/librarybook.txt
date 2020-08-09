@@ -1,0 +1,4 @@
+SN,Book Name,Writer Name,Quantity,$Price
+1,Harry Potter,JK Rowling,29,2
+2,Start With Why,Simon Sinek,9,1.5
+3,Programming with Python,John Smith,19,1.5
